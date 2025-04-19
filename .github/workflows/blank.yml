@@ -33,7 +33,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-          theme: dark # define o modo escuro aqui
+          theme: dracula # define o modo escuro aqui
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
