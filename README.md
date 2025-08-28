@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gabriel Vinicius 👋
 
-- 📗 Atualmente estudando C++/C
+- 📗 Atualmente focado em Java
 - 💻 UX/UI
 
 <div>
@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/gabriel_violi?igsh=MTM0cGtpb3lkeTRocg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielgvo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-vinicius-de-oliveira-26004a350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href = "https://gabrielvioli.github.io/Portf-lio/"> target="_blank"></a>
 </div>
 
 ![snake gif](https://github.com/GabrielVioli/GabrielVioli/blob/output/github-contribution-grid-snake.gif)
