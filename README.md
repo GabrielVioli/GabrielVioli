@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gabriel Vinicius 👋
 
-- 📗 Atualmente focado em Java  
+- 📗 Desenvolvimento web
 - 💻 UX/UI
 
 <div style="background-color:#1e1e2f; padding:20px; border-radius:15px; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
@@ -27,7 +27,7 @@
   <a href="mailto:gabrielgvo16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-vinicius-de-oliveira-26004a350" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielvioli" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://gabrielvioli.github.io/Portf-lio/" target="_blank">
