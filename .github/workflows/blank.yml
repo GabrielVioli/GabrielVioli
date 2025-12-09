@@ -1,22 +1,16 @@
-# GitHub Action para gerar um gráfico de contribuições animado com a cobrinha 🐍
 
 name: Generate Snake
 
-# Controla quando a action será executada
 on:
   schedule:
-    # Executa a cada 12 horas
     - cron: "0 */12 * * *"
 
-  # Permite executar manualmente pelo Actions tab
   workflow_dispatch:
 
-  # Executa também a cada push na branch main
   push:
     branches:
       - main
 
-# Sequência de jobs dessa action
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -31,9 +25,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
-          theme: dark # define o modo escuro aqui
+            # Adicionei ?palette=github-dark no final para forçar o fundo escuro
+            dist/github-contribution-grid-snake.gif?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -48,4 +42,3 @@ jobs:
           commit_message: Atualizando animação da cobrinha
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
