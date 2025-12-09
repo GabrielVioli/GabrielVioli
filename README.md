@@ -1,41 +1,49 @@
-## Olá, meu nome é Gabriel Vinicius 👋
-
-- 📗 Desenvolvimento web
-- 💻 UX/UI
-
-<div style="background-color:#1e1e2f; padding:20px; border-radius:15px; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVioli&show_icons=true&theme=radical&text_color=ffffff&icon_color=ff79c6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielVioli&layout=compact&langs_count=8&card_width=320&theme=radical&text_color=ffffff"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A95EFF&center=true&vCenter=true&width=500&lines=Gabriel+Vinicius;Desenvolvedor+Backend;PHP+%7C+Laravel+%7C+MySQL" alt="Typing SVG" />
 </div>
 
-<div style="display: flex; justify-content:center; gap:10px; margin-top:15px;">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<br/>
+
+<div align="center">
+  <p align="center" width="450px">
+    Desenvolvedor com foco principal em <b>Backend</b> (PHP/Laravel).<br/>
+    Também possuo habilidades em <b>Frontend</b> e <b>UI Design</b>, o que me permite ter uma visão completa do ciclo de desenvolvimento, desde o banco de dados até a interface final.
+    <br/><br/>
+    <b>Stack Principal:</b> PHP, Laravel, MySQL, API REST<br/>
+    <b>Foco Técnico:</b> Clean Code, Modelagem de Dados e Otimização
+  </p>
 </div>
 
----
+<br/>
 
-<div style="display:flex; justify-content:center; gap:10px; margin-top:20px; flex-wrap:wrap;">
-  <a href="https://www.instagram.com/gabriel_violi" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:gabrielgvo16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<div align="center">
+  <h3>Tecnologias</h3>
+  
+  <div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java,spring,python,linux" />
+  </div>
+  
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma,blender,git" />
+  </div>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gabrielvioli" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://gabrielvioli.github.io/Portf-lio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="mailto:gabrielgvo16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://gabrielvioli.github.io/Portf-lio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Site-1e1e2f?style=for-the-badge&logo=safari&logoColor=white" target="_blank" />
   </a>
 </div>
 
----
+<br/>
 
-![snake gif](https://github.com/GabrielVioli/GabrielVioli/blob/output/github-contribution-grid-snake.gif)
-
+<div align="center">
+  <img src="https://github.com/GabrielVioli/GabrielVioli/blob/output/github-contribution-grid-snake.gif" width="100%"/>
+</div>
