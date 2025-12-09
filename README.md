@@ -45,5 +45,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/GabrielVioli/GabrielVioli/blob/output/github-contribution-grid-snake.gif" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Gráfico 3D" />
 </div>
